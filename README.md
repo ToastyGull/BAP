@@ -7,3 +7,7 @@ Our goal for this first project is to, over the course of the uni year, develop 
 Further info:
 For the more complete breakdown of the project and our plans you can check out the project description doc:
 https://docs.google.com/document/d/1c3-PmpVePm5E25v_y73sBNjQZ0Hf_tzACpCHPcjzhVc/edit?usp=sharing
+
+haha
+hehe
+lmfao
