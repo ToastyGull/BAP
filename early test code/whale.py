@@ -15,4 +15,4 @@ whale = """
 ~^~^~^~^~^~^~^~^~^~^~^~^~
 """
 
-Print(whale)
+print(whale)
