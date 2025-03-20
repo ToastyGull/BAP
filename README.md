@@ -1,4 +1,4 @@
-# BAP
+# Biomedical engineering society 2024 - BAP
 UTS Biomedical Society Bionic Arm Project
 
 This is the file repository for the first student run project lead by the UTS Biomedical Society. 
